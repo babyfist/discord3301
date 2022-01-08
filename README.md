@@ -4,7 +4,7 @@ This is the source code of the discord3301 bot.
 # Installation
 1. Clone this repository
 ```
-git clone https://github.com/Arinerron/discord3301.git
+git clone https://github.com/babyfist/discord3301.git
 cd discord3301
 ```
 
